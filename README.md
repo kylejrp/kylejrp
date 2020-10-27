@@ -6,7 +6,7 @@ I've been working as a programmer for around six years at my local municipality.
 
 In my personal projects, I work with vanilla HTML, CSS and JavaScript. I love building static sites on the [Jamstack](https://jamstack.org/). I help maintain [Water.css](https://github.com/kognise/water.css), a simple classless stylesheet for smaller scope sites.
 
-Outside of programming, I play an [electronic saxophone](https://youtu.be/2nBJjL-NV1U?t=12), 3D modelling and printing on a [Prusa MK3](https://www.prusa3d.com/original-prusa-i3-mk3/), play VR games on an [HTC Vive](https://www.vive.com/ca/), and am the Dungeon Master in a Dungeons & Dragons campaign. I also enjoy watching [explanations of old video game architecture](https://www.youtube.com/watch?v=ZI50XUeN6QE), [reverse engineering glitches](https://www.youtube.com/watch?v=p8OBktd42GI), and [security issues for bug bounties](https://www.youtube.com/watch?v=E-P9USG6kLs).
+Outside of programming, I play the saxophone, 3D modelling and printing on a [Prusa MK3](https://www.prusa3d.com/original-prusa-i3-mk3/), play VR games on an [HTC Vive](https://www.vive.com/ca/), and am the Dungeon Master in a Dungeons & Dragons campaign. I also enjoy watching [explanations of old video game architecture](https://www.youtube.com/watch?v=ZI50XUeN6QE), [reverse engineering glitches](https://www.youtube.com/watch?v=p8OBktd42GI), and [security issues for bug bounties](https://www.youtube.com/watch?v=E-P9USG6kLs).
 
 I use [Fira Code](https://github.com/tonsky/FiraCode) at a [really high font size](https://medium.com/@mykola_harmash/developer-tip-to-save-your-eyes-f83135baa64c) and use [f.lux](https://justgetflux.com/) to save my eyes. 
 
