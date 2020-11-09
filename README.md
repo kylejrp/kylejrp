@@ -1,6 +1,6 @@
 # ![kylejrp](kylejrp.png)
 
-👋 Hi there! I'm Kyle Pollard. I'm in beautiful British Columbia, Canada 🍁 [(UTC-7)](https://www.timeanddate.com/worldclock/canada/vancouver)
+👋 Hi there! I'm Kyle Pollard. I'm in beautiful British Columbia, Canada 🍁 [(UTC-8)](https://www.timeanddate.com/worldclock/canada/vancouver)
 
 I've been working as a programmer for around six years at my local municipality. I'm currently working as a full-stack enterprise .NET web developer doing project management, application development, and application maintenance. I graduated university with a double major in Computer Science and Mathematics. I'm also a proud husband and [father](https://twitter.com/kylejrp/status/1279159657722810368?s=20). 😊
 
