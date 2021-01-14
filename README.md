@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Kyle Pollard. I'm in beautiful British Columbia, Canada 🍁 [(UTC-8)](https://www.timeanddate.com/worldclock/canada/vancouver)
 
-I've been working as a programmer for around six years at my local municipality. I'm currently working as a full-stack enterprise .NET web developer doing project management, application development, and application maintenance. I graduated university with a double major in Computer Science and Mathematics. I'm also a proud husband and [father](https://twitter.com/kylejrp/status/1279159657722810368?s=20). 😊
+I am a [full-stack developer on the Public Platform team at Stack Overflow](https://stackoverflow.com/users/3023052/kylejrp) working with .NET and JavaScript. I graduated university with a double major in Computer Science and Mathematics. Previously, I was working at my local municipality as a full-stack enterprise .NET web developer doing project management, application development, and application maintenance. I'm also a proud husband and [father](https://twitter.com/kylejrp/status/1279159657722810368?s=20). 😊
 
 In my personal projects, I work with vanilla HTML, CSS and JavaScript. I love building static sites on the [Jamstack](https://jamstack.org/). I help maintain [Water.css](https://github.com/kognise/water.css), a simple classless stylesheet for smaller scope sites.
 
