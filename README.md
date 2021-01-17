@@ -11,3 +11,5 @@ Outside of programming, I play the saxophone, I 3D model and print on a [Prusa M
 I use [Fira Code](https://github.com/tonsky/FiraCode) at a [really high font size](https://medium.com/@mykola_harmash/developer-tip-to-save-your-eyes-f83135baa64c) and use [f.lux](https://justgetflux.com/) to save my eyes. 
 
 Feel free reach out by messaging me publicly or privately on my [Twitter](https://twitter.com/kylejrp)!
+
+<a href="https://stackexchange.com/users/3625223"><img src="https://stackexchange.com/users/flair/3625223.png" width="208" height="58" alt="profile for Kyle Pollard on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kyle Pollard on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
