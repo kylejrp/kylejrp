@@ -1,15 +1,40 @@
-# ![kylejrp](kylejrp.png)
+# <a href="https://kylejrp.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="kylejrp-dark.png"><source media="(prefers-color-scheme: light)" srcset="kylejrp-light.png"><img alt="kylejrp" src="kylejrp-light.png"></picture></a>
 
-👋 Hi there! I'm Kyle Pollard. I'm in beautiful British Columbia, Canada 🍁 [(UTC-8)](https://www.timeanddate.com/worldclock/canada/vancouver)
+👋 Hi there! I'm Kyle Pollard, a **Senior Software Developer** in beautiful British Columbia, Canada 🍁 [(Pacific Time)](https://www.timeanddate.com/worldclock/canada/vancouver).
 
-I am a [full-stack developer on the Public Platform team at Stack Overflow](https://stackoverflow.com/users/3023052/kylejrp) working with .NET and JavaScript. I graduated university with a double major in Computer Science and Mathematics. Previously, I was working at my local municipality as a full-stack enterprise .NET web developer doing project management, application development, and application maintenance. I'm also a proud husband and [father](https://twitter.com/kylejrp/status/1279159657722810368?s=20). 😊
+I work on the **public Q&A product at Stack Overflow**, building and maintaining the core systems used by millions of developers. My stack is primarily **C#/.NET**, **TypeScript**, and **Svelte**. I focus heavily on reliability and maintainability, helping ensure a large, long-lived codebase stays healthy as the product evolves
 
-In my personal projects, I work with vanilla HTML, CSS and JavaScript. I love building static sites on the [Jamstack](https://jamstack.org/). I help maintain [Water.css](https://github.com/kognise/water.css), a simple classless stylesheet for smaller scope sites.
+I identify strongly with **neurodiversity and inclusion**. I try to bring that into how I write code and collaborate: prioritizing clear communication, a sustainable pace, and respect for different ways of thinking.
 
-Outside of programming, I play the saxophone, I 3D model and print on a [Prusa MK3](https://www.prusa3d.com/original-prusa-i3-mk3/), I play VR games on an [HTC Vive](https://www.vive.com/ca/), and I am the Dungeon Master in a Dungeons & Dragons campaign. I also enjoy watching [explanations of old video game architecture](https://www.youtube.com/watch?v=ZI50XUeN6QE), [reverse engineering glitches](https://www.youtube.com/watch?v=p8OBktd42GI), and [security issues for bug bounties](https://www.youtube.com/watch?v=E-P9USG6kLs).
+I graduated with a double major in Computer Science and Mathematics. Previously, I worked in municipal government on enterprise .NET web apps (handling everything from new development to the unglamorous "keep the lights on" maintenance).
 
-I use [Fira Code](https://github.com/tonsky/FiraCode) at a [really high font size](https://medium.com/@mykola_harmash/developer-tip-to-save-your-eyes-f83135baa64c) and use [f.lux](https://justgetflux.com/) to save my eyes. 
+## Personal projects
 
-Feel free reach out by messaging me publicly or privately on my [Twitter](https://twitter.com/kylejrp)!
+### [Forklift](https://github.com/kylejrp/Forklift) (WIP chess engine in C#)
 
-<a href="https://stackexchange.com/users/3625223"><img src="https://stackexchange.com/users/flair/3625223.png" width="208" height="58" alt="profile for Kyle Pollard on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kyle Pollard on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+Lately, I’ve been building a chess engine to go deep on algorithms, correctness, and performance tuning. It’s not released yet, but it’s been a great way to challenge myself. I'm currently working with:
+
+- Bitboards and move generation
+- Alpha-beta search with move ordering
+- Transposition tables and principal variation tracking
+- Automated benchmarking and measurement-driven iteration
+
+## Links
+
+- 🌐 Website: <https://kylejrp.com>
+- 🦋 Bluesky: <https://bsky.app/profile/kylejrp.com>
+- 🧠 Stack Overflow / Stack Exchange:
+
+  <a href="https://stackexchange.com/users/3625223">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://stackexchange.com/users/flair/3625223.png?theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://stackexchange.com/users/flair/3625223.png?theme=light">
+      <img
+        src="https://stackexchange.com/users/flair/3625223.png"
+        loading="lazy"
+        width="208"
+        height="58"
+        alt="profile for Kyle Pollard on Stack Exchange, a network of free, community-driven Q&amp;A sites"
+        title="profile for Kyle Pollard on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+    </picture>
+  </a>
